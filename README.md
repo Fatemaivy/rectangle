@@ -10,7 +10,6 @@ Pressing the first letter of my name from the keyboard will close the window.
 This project confirms that the program runs successfully on my computer.
 
 Student Information
-
 Name: Fatema Islam Ivy
 
 Course: Computer Graphics and Multimedia Lab
@@ -22,8 +21,8 @@ Language: C++ (main.cpp)
 Platform: Windows
 
 Features
-Dark background window
-One rectangle (OpenGL rendering)
+1. Dark background window
+2.One rectangle (OpenGL rendering)
 Smooth color transition (red → white)
 Continuous magnification animation
 Continuous rotation in X-Y direction
