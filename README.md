@@ -12,9 +12,13 @@ This project confirms that the program runs successfully on my computer.
 Student Information
 
 Name: Fatema Islam Ivy
+
 Course: Computer Graphics and Multimedia Lab
+
 Editor: VS Code
+
 Language: C++ (main.cpp)
+
 Platform: Windows
 
 Features
